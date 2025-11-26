@@ -12,5 +12,4 @@ Soundcass,
 Music,
 Mixed,
 Cr.
-You have to predict the column “MaterialType” and please submit in the format given in the “sample_submissions.csv” file. Also note evaluation criteria will be the weighted f1-score.
-You have to predict the column “MaterialType” and please submit in the format given in the “sample_submissions.csv” file.
+
