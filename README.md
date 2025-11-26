@@ -1,4 +1,4 @@
-# ML-Hackathon-IIT-Kanpur
+# ML-Hackathon
 Data Science Hackathon organized in campus in which I partcipated
 The Problem statements is as follows-
 Predict the Publishing Material Type
@@ -13,5 +13,4 @@ Music,
 Mixed,
 Cr.
 You have to predict the column “MaterialType” and please submit in the format given in the “sample_submissions.csv” file. Also note evaluation criteria will be the weighted f1-score.
-You have to predict the column “MaterialType” and please submit in the format given in the “sample_submissions.csv” file. Also note evaluation criteria will be the weighted f1-score
-Here is a link of the problem statement- https://www.hackerearth.com/challenges/college/ml-iitk-july/machine-learning/b7fe7fdd6eaa4b7b9f6afbb973ab0f40/
+You have to predict the column “MaterialType” and please submit in the format given in the “sample_submissions.csv” file.
